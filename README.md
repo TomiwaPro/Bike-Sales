@@ -47,8 +47,6 @@ How many customers are there in each age group?
 
 Calculate the total profit for each product category.
 
-Determine the product with the highest profit margin.
-
 What is the average profit per order?
 - Geographical Analysis:
 
@@ -77,4 +75,39 @@ Determine the most common age group for each product category.
 
 ### Dashboard
 
+Before we could visualize we need to create pivot table for each questions to be answer, I also create a sheet 'Pivot Table' for this. In this sheet I create all the pivot tables needed for the question to be answered through the dashboard.
 
+After I'm done with the pivot tables, I added another sheet named 'Dashboard' to visualize the pivot table created.
+- I added a slicer for Country and State, so that user/client can easily choose preferred Country(s) or State(s) to explore.
+
+#### Sales Analysis
+
+![Sale Analysis](https://github.com/TomiwaPro/Bike-Sales/assets/160256704/4d06f6c5-6898-440c-bf38-57451ee94118)
+
+#### Customer Demographics
+
+![Customer Demographics](https://github.com/TomiwaPro/Bike-Sales/assets/160256704/023a733f-cd8f-45f5-bfd1-eeb3ca2eeaa8)
+
+#### Profit Analysis
+
+![Profit Analysis](https://github.com/TomiwaPro/Bike-Sales/assets/160256704/45f80513-1dd0-47be-aa0e-dd35d9267326)
+
+#### Geographical Analysis
+
+Here I create another slicer for Total Revenue by State for easy navigation and for the value to readable because we have alot of State. Note: This slicer only work for 'Total Revenue by State'.
+![Geographical Analysis](https://github.com/TomiwaPro/Bike-Sales/assets/160256704/2f7f8a45-0844-4ffd-a2b6-f2ac9a8a2faf)
+
+#### Product Performance
+
+![Product Performance](https://github.com/TomiwaPro/Bike-Sales/assets/160256704/416b2942-66b1-4099-944c-3540783ea675)
+
+#### Cost and Pricing Analysis
+
+I also create a slicer for Total Cost and Total Price by Product Sub-Category for easy navigation and for the value to readable because we have alot of Product Sub-Category. Also this slicer only work for 'Total Cost and Total Price by Product Sub-Category'.
+![Cost and Price Analysis](https://github.com/TomiwaPro/Bike-Sales/assets/160256704/2c95ca65-ea07-4f61-af48-e7caf837fd77)
+
+#### Customer Behavior
+
+![Customer Behaviour](https://github.com/TomiwaPro/Bike-Sales/assets/160256704/2c36d445-6256-4a02-b4e9-a0a3b8a7fce6)
+
+With this dashboard we can answer the questions even more question easily by using the sicer to select the Country and state we want to anlysis or explore.
