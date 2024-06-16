@@ -110,5 +110,16 @@ I also create a slicer for Total Cost and Total Price by Product Sub-Category fo
 
 ![Customer Behaviour](https://github.com/TomiwaPro/Bike-Sales/assets/160256704/2c36d445-6256-4a02-b4e9-a0a3b8a7fce6)
 
-With this dashboard we can answer the questions even more question easily by using the sicer to select the Country and state we want to anlysis or explore. 
-[Sales.csv](https://github.com/user-attachments/files/15858828/Sales.csv)
+With this dashboard we can answer the questions even more question easily by using the slicer to select the Country and state we want to analysis or explore. 
+
+## Credits
+- **Ayotomiwa Alao**: Project creation, data analysis, and documentation.
+- **Tool**: Excel.
+- **Dataset**: [Kaggle](https://www.kaggle.com/code/sadiqshah/bike-store-sales-in-europe/input?select=Sales.csv)
+  
+## Contact and Availability
+I am actively seeking new opportunities in data analysis. With a proven track record in Excel and a strong analytical skill set, I am ready to contribute to your team. Connect with me on [LinkedIn](https://www.linkedin.com/in/tomiwapro/) or reach out via email at [tomiwaprofficial@gmail.com](mailto:tomiwaprofficial@gmail.com).
+
+---
+
+Thank you for taking the time to review my project. I look forward to connecting with professionals and organizations where I can apply my expertise to drive impactful data-driven decisions.
