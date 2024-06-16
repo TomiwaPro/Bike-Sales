@@ -110,4 +110,5 @@ I also create a slicer for Total Cost and Total Price by Product Sub-Category fo
 
 ![Customer Behaviour](https://github.com/TomiwaPro/Bike-Sales/assets/160256704/2c36d445-6256-4a02-b4e9-a0a3b8a7fce6)
 
-With this dashboard we can answer the questions even more question easily by using the sicer to select the Country and state we want to anlysis or explore.
+With this dashboard we can answer the questions even more question easily by using the sicer to select the Country and state we want to anlysis or explore. 
+[Sales.csv](https://github.com/user-attachments/files/15858828/Sales.csv)
