@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insigts into the sales performance of a bike company over the past years, from 2011-2016. By analyzing various aspects of the sales dats, we seek to identify trends, make data-driven recommendations, and gain deeper understandingg of the company's performance.
+This data analysis project aims to provide insigts into the sales performance of a bike company over the past years, from 2011-2016. By analyzing various aspects of the sales dats, we seek to identify trends, make data-driven recommendations, and gain deeper understanding of the company's performance.
 
 ### Data Source
 
